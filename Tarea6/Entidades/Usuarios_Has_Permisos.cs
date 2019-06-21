@@ -10,7 +10,6 @@ namespace Tarea6.Entidades
     public class Usuarios_Has_Permisos
     {
         [Key]
-        public int IdUsuario_Has_Permiso { get; set; }
         public int IdUsuario { get; set; }
         public int IdPermiso { get; set; }
 

@@ -71,6 +71,7 @@
     <Compile Include="BLL\ProveedoresTests.cs" />
     <Compile Include="BLL\TipoPersonasTests.cs" />
     <Compile Include="BLL\UsuariosTests.cs" />
+    <Compile Include="BLL\Usuarios_Has_PermisosTests.cs" />
     <Compile Include="BLL\VentasTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
