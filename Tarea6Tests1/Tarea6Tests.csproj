@@ -66,10 +66,12 @@
     <Compile Include="BLL\CargosTests.cs" />
     <Compile Include="BLL\ClientesTests.cs" />
     <Compile Include="BLL\EmpleadosTests.cs" />
-    <Compile Include="BLL\Estados.cs" />
+    <Compile Include="BLL\EstadosTests.cs" />
     <Compile Include="BLL\PersonasTests.cs" />
     <Compile Include="BLL\ProveedoresTests.cs" />
     <Compile Include="BLL\TipoPersonasTests.cs" />
+    <Compile Include="BLL\UsuariosTests.cs" />
+    <Compile Include="BLL\VentasTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
