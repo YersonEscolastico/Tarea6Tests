@@ -15,7 +15,6 @@ namespace Tarea6.Entidades
 
         public Usuarios_Has_Permisos()
         {
-            IdUsuario_Has_Permiso = 0;
             IdUsuario = 0;
             IdPermiso = 0;
         }
