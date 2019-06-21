@@ -23,6 +23,7 @@ namespace Tarea6.DAL
         public DbSet<Imagenes> imagenes { get; set; }
         public DbSet<TiposComprobantes> tiposComprobantes { get; set; }
         public DbSet<Permisos> permisos { get; set; }
+        public DbSet<DetalleVentas> detalleVentas { get; set; }
 
 
         public Contexto() : base("Constr")
