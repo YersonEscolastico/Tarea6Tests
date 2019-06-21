@@ -60,6 +60,7 @@
     <Compile Include="Entidades\Clientes.cs" />
     <Compile Include="Entidades\Empleados.cs" />
     <Compile Include="Entidades\Estados.cs" />
+    <Compile Include="Entidades\Imagenes.cs" />
     <Compile Include="Entidades\Personas.cs" />
     <Compile Include="Entidades\Proveedores.cs" />
     <Compile Include="Entidades\TipoPersonas.cs" />
