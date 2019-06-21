@@ -10,7 +10,6 @@ namespace Tarea6.Entidades
     public class Ventas
     {
         [Key]
-
         public int IdVenta { get; set; }
         public int IdUsuario{ get; set; }
         public int IdCliente { get; set; }
@@ -25,7 +24,7 @@ namespace Tarea6.Entidades
             IdVenta = 0;
             IdUsuario = 0;
             IdCliente = 0;
-            IdComprobante = 0;
+            IdTipoComprobante = 0;
             FechaVenta = DateTime.Now;
             Igv = 0;
             SubTotal = 0;
