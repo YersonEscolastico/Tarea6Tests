@@ -29,6 +29,7 @@ namespace Tarea6.DAL
         public DbSet<Categorias> categorias { get; set; }
         public DbSet<UnidadMedidas> unidadMedidas { get; set; }
         public DbSet<Modelos> modelos { get; set; }
+        public DbSet<Productos> productos { get; set; }
 
         public Contexto() : base("Constr")
         {
