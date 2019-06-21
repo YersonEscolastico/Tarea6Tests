@@ -64,6 +64,7 @@
   </Choose>
   <ItemGroup>
     <Compile Include="BLL\CargosTests.cs" />
+    <Compile Include="BLL\CategoriasTests.cs" />
     <Compile Include="BLL\ClientesTests.cs" />
     <Compile Include="BLL\ComprasTests.cs" />
     <Compile Include="BLL\DetalleComprasTests.cs" />
@@ -71,6 +72,7 @@
     <Compile Include="BLL\EmpleadosTests.cs" />
     <Compile Include="BLL\EstadosTests.cs" />
     <Compile Include="BLL\ImagenesTests.cs" />
+    <Compile Include="BLL\MarcasTests.cs" />
     <Compile Include="BLL\PermisosTests.cs" />
     <Compile Include="BLL\PersonasTests.cs" />
     <Compile Include="BLL\ProductosTests.cs" />
