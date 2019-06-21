@@ -15,6 +15,7 @@ namespace Tarea6.DAL
         public DbSet<TipoPersonas> tipoPersonas { get; set; }
         public DbSet<Clientes> clientes { get; set; }
         public DbSet<Cargos> cargos { get; set; }
+        public DbSet<Estados> estados { get; set; }
         public Contexto() : base("Constr")
         {
 
