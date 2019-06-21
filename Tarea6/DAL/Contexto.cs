@@ -21,6 +21,8 @@ namespace Tarea6.DAL
         public DbSet<Usuarios> usuarios { get; set; }
         public DbSet<Usuarios_Has_Permisos> usuarios_has_permisos { get; set; }
         public DbSet<Imagenes> imagenes { get; set; }
+        public DbSet<TiposComprobantes> tiposComprobantes { get; set; 
+
         public Contexto() : base("Constr")
         {
 
