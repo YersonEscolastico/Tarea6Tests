@@ -21,7 +21,7 @@ namespace Tarea6.BLL.Tests
 
             personas.IdPersona = 1;
             personas.Dni = 1;
-            personas.Nombre = "d";
+            personas.Nombre = "h";
             personas.Materno = "f";
             personas.Paterno = "dke";
             personas.FechaNacimiento = DateTime.Now;
