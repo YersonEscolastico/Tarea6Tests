@@ -82,7 +82,7 @@ namespace Tarea6.BLL.Tests
         [TestMethod()]
         public void EliminarTest()
         {
-            RepositorioBase<Personas> db = new RepositorioBase<Personas>();
+            RepositorioBase<Imagenes> db = new RepositorioBase<Imagenes>();
 
             Assert.IsTrue(db.Eliminar(3));
         }
