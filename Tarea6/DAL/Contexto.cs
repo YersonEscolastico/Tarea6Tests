@@ -26,6 +26,7 @@ namespace Tarea6.DAL
         public DbSet<Permisos> permisos { get; set; }
         public DbSet<DetalleCompras> detalleCompras { get; set; }
         public DbSet<Compras> compras { get; set; }
+        public DbSet<Categorias> categorias { get; set; }
 
 
         public Contexto() : base("Constr")
