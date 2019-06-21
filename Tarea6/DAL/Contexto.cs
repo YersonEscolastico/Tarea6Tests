@@ -28,7 +28,7 @@ namespace Tarea6.DAL
         public DbSet<Compras> compras { get; set; }
         public DbSet<Categorias> categorias { get; set; }
         public DbSet<UnidadMedidas> unidadMedidas { get; set; }
-
+        public DbSet<Modelos> modelos { get; set; }
 
         public Contexto() : base("Constr")
         {
